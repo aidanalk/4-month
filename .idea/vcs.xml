@@ -7,5 +7,7 @@
     <mapping directory="$PROJECT_DIR$/lesson4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lesson5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lesson6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson8" vcs="Git" />
   </component>
 </project>
